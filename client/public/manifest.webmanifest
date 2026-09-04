@@ -1,0 +1,9 @@
+{
+  "name": "Tourism Guardian",
+  "short_name": "Tourism Guardian",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071525",
+  "theme_color": "#071525",
+  "icons": []
+}
